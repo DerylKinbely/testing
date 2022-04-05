@@ -1,4 +1,10 @@
 testing code
-def f(x):
-  pass
+def c(func):
+  z = 0
+  def f(*args, **kwargs):
+    func(*args, **kwargs)
+    z += 1
+    print(z)
+   
+   return f
   
