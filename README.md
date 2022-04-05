@@ -1,3 +1,2 @@
 # testing
-# Hello, World!
-# This is a dangerous place!!!
+# Oh, this is a dangerous place...
